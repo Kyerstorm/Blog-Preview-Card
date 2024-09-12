@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Kyerstorm/blog-preview-card)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-with-interactive-element-SphmXZWs8w)
 - Live Site URL: [Netlify Preview](https://ky-blog-preview-card.netlify.app/)
 
 ## My process
