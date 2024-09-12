@@ -1,0 +1,97 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    min-width: 375px;
+    margin-top: 200px;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px 10px;
+    border: solid 1px black;
+    border-radius: 15px;
+    width: 350px;
+    margin: auto;
+    box-shadow: 5px 5px ;
+}
+
+.image-container {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.image-container > img {
+    border-radius: 10px;
+}
+
+.topic-type {
+    background-color: hsl(47, 88%, 63%);
+    position: relative;
+    left: 10px;
+    width: 25%;
+    border-radius: 5px;
+
+}
+
+.topic-title {
+    display: inline;
+}
+
+.topic-type > p {
+    padding: 5px;
+    font-family: 'Figtree';
+    font-weight: 800;
+}
+
+.publish-date > p {
+    text-align: left;
+    font-family: 'Figtree';
+    font-size: 15px;
+    font-weight: bold;
+}
+
+p {
+    position: relative;
+    left: 10px;
+}
+
+.topic-title > p {
+    display: inline;
+    font-family: 'Figtree';
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+.topic-title:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
+.description {
+    color: hsl(0, 0%, 50%);
+    width: 300px;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 10px;
+} 
+
+.profile-picture {
+    height: 40px;
+}
+
+.author > p {
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.attribution {
+    margin-top: 10px;
+     font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
